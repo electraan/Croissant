@@ -1,0 +1,23 @@
+body {
+    display: block;
+    margin: 10px;
+    background:#F8E8A6;
+}
+:root {
+--text-center: text-align:center;
+}
+h1 {
+  font-size: 2em;
+}
+.croissant {
+    display: block;
+    max-width: 100%;
+    margin: 30px auto;
+}
+.links a {
+    font-size: 13px;
+    color: green;
+}
+p{
+  font-size: 13px;
+}
