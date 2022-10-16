@@ -1,7 +1,7 @@
 body {
     display: block;
     margin: 10px;
-    background:#F8E8A6;
+    background:#BEC5CD;
 }
 :root {
 --text-center: text-align:center;
@@ -16,7 +16,7 @@ h1 {
 }
 .links a {
     font-size: 13px;
-    color: green;
+    color: rgb(22, 22, 70);
 }
 p{
   font-size: 13px;
